@@ -18,7 +18,8 @@ The classes will be held at **BUCH B313** from 2:00PM to 3:20PM (Section 002) an
 
 All materials will be provided online:
 - Class Materials: https://github.com/doctor-phil/ECON323_2024_Spring
-- Communications, Announcements, Grades, Piazza: http://canvas.ubc.ca
+- Communications, Announcements, Grades: http://canvas.ubc.ca
+- Piazza: https://piazza.com/ubc.ca/winterterm22023/econ323
 
 ## Grading
 
