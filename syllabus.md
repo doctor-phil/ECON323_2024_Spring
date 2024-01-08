@@ -2,7 +2,7 @@
 ## Quantitative Economic Modeling with Data Science Applications
 
 - **Instructor:** Philip Solimine, philip.solimine@ubc.ca
-- **TA:** Joshua Catalano, jcatal@student.ubc.ca
+- **TA:** Daniel Jaramillo, daniel.jaramillo@alumni.ubc.ca
 - **Textbook:** [QuantEcon DataScience](https://datascience.quantecon.org/)
 
 
@@ -12,12 +12,12 @@ This is a course introducing the computational and data science tools used in mo
 We will apply a programming language (Python) to analyze these sorts of
 data and making numerical calculations/simulations of models in economics.
 
-The classes will be held at **LASR 104** on Tuesday and Thursday, 12:30-1:50pm. These schedules will be subject to changes in related UBC policies.
+The classes will be held at **BUCH B313** from 2:00PM to 3:20PM (Section 002) and in **Iona 301** from 5:00pm to 6:30pm.
 
 ## Course Materials and Communications
 
 All materials will be provided online:
-- Class Materials: https://github.com/doctor-phil/ECON323_2022_Fall
+- Class Materials: https://github.com/doctor-phil/ECON323_2024_Spring
 - Communications, Announcements, Grades, Piazza: http://canvas.ubc.ca
 
 ## Grading
