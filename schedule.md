@@ -17,6 +17,7 @@ This is a *tentative schedule* and *will be updated and changed* as the course p
 14. **February 21** - Midterm break
 --------------------------------------------------------------------------------------------------------------------------
 The remaining portion of the schedule will be adjusted after the midterm exam.
+
 15. **February 26** - [Cleaning Data](https://datascience.quantecon.org/pandas/data_clean.html)
 16. **February 28** - [Reshape](https://datascience.quantecon.org/pandas/reshape.html)
 17. **March 4** -  [Merge](https://datascience.quantecon.org/pandas/merge.html)
