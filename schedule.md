@@ -18,7 +18,7 @@ This is a *tentative schedule* and *will be updated and changed* as the course p
 --------------------------------------------------------------------------------------------------------------------------
 The remaining portion of the schedule will be adjusted after the midterm exam.
 
-15. **February 26** - [Cleaning Data](https://datascience.quantecon.org/pandas/data_clean.html)
+15. **February 26** - [Pandas basics](https://datascience.quantecon.org/pandas/data_clean.html)
 16. **February 28** - [Reshape](https://datascience.quantecon.org/pandas/reshape.html)
 17. **March 4** -  [Merge](https://datascience.quantecon.org/pandas/merge.html)
 18. **March 6** - [Groupby](https://datascience.quantecon.org/pandas/groupby.html)
@@ -38,10 +38,10 @@ The remaining portion of the schedule will be adjusted after the midterm exam.
 **Important:** work on the problem sets in the [course git repository](https://github.com/ubcecon/ECON323_2024_Spring/tree/master/problem_sets), not the ones from `quantecon.org`! Do not do the `quantecon.org` problem sets that appear in `lecture-datascience.notebooks/problem_sets`! (Except as practice)
 
 1. [Problem set 1](./problem_sets/problem_set_1.ipynb) (Wednesday, January 17 at 11:59pm)
-2. [Problem set 2](./problem_sets/problem_set_1.ipynb) (Friday, February 2 at 11:59pm)
-3. Problem set 3 (TBA)
-4. Midterm exam (February 14)
-5. Problem set 4 (TBA)
+2. [Problem set 2](./problem_sets/problem_set_2.ipynb) (Friday, February 2 at 11:59pm)
+3. Midterm exam (February 14)
+4. [Final project proposal](./final_project.md) (Monday, March 4 at 11:59pm)
+5. [Problem set 3](./problem_sets/problem_set_3.ipynb) (Wednesday, March 6 at 11:59pm)
 6. Problem set 5 (TBA)
 7. Problem set 6 (TBA)
 8. Final project (TBA)
